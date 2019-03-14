@@ -1,3 +1,5 @@
+The time I spent on this project is roughly 2 hours. I think what took me a little while to figure out was the css path for when the page navigated to shopping cart.
+
 #**What is the amazon search automation suite and what does it test?**
 
 A simple automation test built with the protractor framework that tests Amazon's search function as well as adding an item to the shopping cart with more than one quantity.These tests run will find any bugs that might get introduced to search box, department selection for filtering search, results page, overview page of an item, quantity count, and shopping cart item display.
